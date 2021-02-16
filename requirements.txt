@@ -1,0 +1,16 @@
+pymongo[srv]
+bs4
+telebot
+pyTelegramBotApi
+apscheduler
+urlopen
+scrapy-rotating-proxies
+scrapy-useragents
+selenium
+flask_apscheduler
+gunicorn
+openpyxl
+emoji
+flask_script
+pandas
+sklearn
